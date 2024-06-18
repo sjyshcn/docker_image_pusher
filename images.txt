@@ -1,2 +1,1 @@
-shentar/douban_api:lates
 mysql:latest
