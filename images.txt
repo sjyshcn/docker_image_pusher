@@ -5,3 +5,4 @@ fireflyiii/core:latest
 wcjiang/reference:latest
 jgraph/drawio:latest
 wangqiru/ttrss:latest
+mysql:latest
