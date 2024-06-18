@@ -1,1 +1,7 @@
 b3log/siyuan:latest
+xiaoyaliu/alist:latest
+linuxserver/jackett:latest
+fireflyiii/core:latest
+wcjiang/reference:latest
+jgraph/drawio:latest
+wangqiru/ttrss:latest
