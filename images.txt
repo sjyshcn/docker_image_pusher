@@ -1,7 +1,6 @@
 sameersbn/postgresql:10
 jgraph/drawio:latest
 xiaoyaliu/alist:latest
-0nlylty/dockercopilot:UGREEN
 linuxserver/jackett:latest
 homeassistant/home-assistant:latest
 linuxserver/calibre-web:latest
@@ -25,7 +24,6 @@ shuiche/mind-map:latest
 liwei2633/gopeed:latest
 neosmemo/memos:latest
 dreamacro/clash:latest
-portainer/portainer-ce
 qingfeng2336/it-tools:latest
 haishanh/yacd:latest
 a76yyyy/qiandao:latest
