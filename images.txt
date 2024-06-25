@@ -33,10 +33,10 @@ emby/embyserver:4.8.3.0
 vaultwarden/server:latest
 sameersbn/postgresql:10
 shentar/douban_api:latest
-mysql:latest
 markliu2018/moneynote-all-no-mysql:latest
 jasminexzzz/blossom:latest
 imsyy/splayer:latest
 whyour/qinglong:latest
 adolfintel/speedtest:latest
 fogforest/yesplaymusic:latest
+mysql:latest
