@@ -1,4 +1,3 @@
-sameersbn/postgresql:10
 jgraph/drawio:latest
 xiaoyaliu/alist:latest
 linuxserver/jackett:latest
@@ -29,9 +28,7 @@ haishanh/yacd:latest
 a76yyyy/qiandao:latest
 shentar/talebook:latest
 wisemapping/wisemapping:latest
-emby/embyserver:4.8.3.0
 vaultwarden/server:latest
-sameersbn/postgresql:10
 shentar/douban_api:latest
 markliu2018/moneynote-all-no-mysql:latest
 jasminexzzz/blossom:latest
