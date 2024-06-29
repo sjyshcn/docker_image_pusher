@@ -1,1 +1,2 @@
-mattermost/focalboard:latest
+awesometic/h5ai:latest
+gotify/server:latest
