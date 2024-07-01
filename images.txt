@@ -38,3 +38,5 @@ adolfintel/speedtest:latest
 fogforest/yesplaymusic:latest
 mysql:latest
 rustdesk/rustdesk-server:latest
+nriver/trilium-cn:latest
+zadam/trilium:latest
