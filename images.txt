@@ -42,3 +42,4 @@ nriver/trilium-cn:latest
 zadam/trilium:latest
 ghcr.io/anduin2017/how-to-cook:latest
 mattermost/focalboard:latest
+linuxserver/grocy:latest
