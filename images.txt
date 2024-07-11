@@ -1,4 +1,3 @@
-ghcr.io/open-webui/open-webui:git-a62b092
 ghcr.io/hay-kot/homebox:latest
 jgraph/drawio:latest
 xiaoyaliu/alist:latest
