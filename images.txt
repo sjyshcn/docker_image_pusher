@@ -41,5 +41,5 @@ rustdesk/rustdesk-server:latest
 nriver/trilium-cn:latest
 zadam/trilium:latest
 ghcr.io/anduin2017/how-to-cook:latest
-mattermost/focalboard:latest
+chaoszhu/easynode:latest
 linuxserver/grocy:latest
