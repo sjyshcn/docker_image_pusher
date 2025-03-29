@@ -1,1 +1,9 @@
 ghcr.io/hay-kot/homebox:latest
+jgraph/drawio:latest
+xiaoyaliu/alist:hostmode
+linuxserver/jackett:latest
+homeassistant/home-assistant:latest
+linuxserver/calibre-web:latest
+fireflyiii/core:latest
+frooodle/s-pdf:latest
+sissbruecker/linkding:latest
