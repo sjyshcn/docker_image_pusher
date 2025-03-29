@@ -2,4 +2,8 @@ b3log/siyuan:latest
 imaegoo/twikoo:latest
 wangqiru/ttrss:latest
 neilpang/acme.sh:latest
-shuiche/mind-map:latest
+liwei2633/gopeed:latest
+neosmemo/memos:latest
+dreamacro/clash:latest
+qingfeng2336/it-tools:latest
+haishanh/yacd:latest
