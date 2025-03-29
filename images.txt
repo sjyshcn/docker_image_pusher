@@ -2,3 +2,4 @@ b3log/siyuan:latest
 imaegoo/twikoo:latest
 wangqiru/ttrss:latest
 neilpang/acme.sh:latest
+shuiche/mind-map:latest
