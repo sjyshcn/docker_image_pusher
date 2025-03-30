@@ -42,4 +42,3 @@ zadam/trilium:latest
 ghcr.io/anduin2017/how-to-cook:latest
 chaoszhu/easynode:latest
 linuxserver/grocy:latest
-shuiche/mind-map:latest
