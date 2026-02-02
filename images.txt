@@ -41,4 +41,4 @@ zadam/trilium:latest
 ghcr.io/anduin2017/how-to-cook:latest
 chaoszhu/easynode:latest
 linuxserver/grocy:latest
-wekanteam/wekan:8.25
+wekanteam/wekan:v8.27
