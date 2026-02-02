@@ -3,7 +3,7 @@ imaegoo/twikoo:latest
 wangqiru/ttrss:latest
 neilpang/acme.sh:latest
 liwei2633/gopeed:latest
-neosmemo/memos:latest
+neosmemo/memos:stable
 dreamacro/clash:latest
 qingfeng2336/it-tools:latest
 haishanh/yacd:latest
