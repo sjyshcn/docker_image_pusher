@@ -37,7 +37,7 @@ fogforest/yesplaymusic:latest
 mysql:latest
 rustdesk/rustdesk-server:latest
 nriver/trilium-cn:latest
-zadam/trilium:latest
+triliumnext/trilium:sha-72dd322
 ghcr.io/anduin2017/how-to-cook:latest
 chaoszhu/easynode:latest
 linuxserver/grocy:latest
