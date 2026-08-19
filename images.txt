@@ -6,6 +6,7 @@ dreamacro/clash:latest
 qingfeng2336/it-tools:latest
 haishanh/yacd:latest
 ghcr.io/hay-kot/homebox:latest
+ghcr.io/danvergara/morphos-server:latest
 jgraph/drawio:latest
 xiaoyaliu/alist:hostmode
 homeassistant/home-assistant:latest
