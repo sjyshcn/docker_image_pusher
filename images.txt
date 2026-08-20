@@ -1,7 +1,3 @@
-nousresearch/hermes-agent:latest
-ghcr.io/remvze/calmness:latest
-alexscifier/neonlink:latest
-hectorqin/reader:latest
 ghcr.io/haishanh/cherry:latest
 ghcr.io/rishikanthc/markopolis:latest
 hkotel/mealie:latest
