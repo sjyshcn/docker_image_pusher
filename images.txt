@@ -1,3 +1,1 @@
-ghcr.io/dendianugerah/reubah:latest
-aceberg/exercisediary:latest
-aceberg/homelists:latest
+ghcr.io/rishikanthc/markopolis:latest
