@@ -1,4 +1,3 @@
-hkotel/mealie:latest
-hcr.io/dendianugerah/reubah:latest
+ghcr.io/dendianugerah/reubah:latest
 aceberg/exercisediary:latest
 aceberg/homelists:latest
