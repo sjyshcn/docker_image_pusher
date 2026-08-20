@@ -1,5 +1,3 @@
-ghcr.io/haishanh/cherry:latest
-ghcr.io/rishikanthc/markopolis:latest
 hkotel/mealie:latest
 hcr.io/dendianugerah/reubah:latest
 aceberg/exercisediary:latest
