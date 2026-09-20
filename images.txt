@@ -1,9 +1,3 @@
-homeassistant/home-assistant:latest
-linuxserver/calibre-web:latest
-fireflyiii/core:latest
-frooodle/s-pdf:latest
-sissbruecker/linkding:latest
-jeessy/ddns-go:latest
 minio/minio:latest
 luodaoyi/kms-server:latest
 wcjiang/reference:latest
