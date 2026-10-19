@@ -27,17 +27,3 @@ shentar/douban_api:latest
 markliu2018/moneynote-all-no-mysql:latest
 adolfintel/speedtest:latest
 mysql:latest
-rustdesk/rustdesk-server:latest
-nriver/trilium-cn:latest
-triliumnext/trilium:sha-72dd322
-ghcr.io/anduin2017/how-to-cook:latest
-linuxserver/grocy:latest
-wekanteam/wekan:v8.27
-nousresearch/hermes-agent:latest
-ghcr.io/remvze/calmness:latest
-alexscifier/neonlink:latest
-ghcr.io/haishanh/cherry:latest
-hkotel/mealie:latest
-ghcr.io/dendianugerah/reubah:latest
-aceberg/exercisediary:latest
-aceberg/homelists:latest
