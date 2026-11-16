@@ -41,3 +41,4 @@ hkotel/mealie:latest
 ghcr.io/dendianugerah/reubah:latest
 aceberg/exercisediary:latest
 aceberg/homelists:latest
+linuxserver/jackett:latest
