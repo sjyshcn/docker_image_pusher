@@ -9,7 +9,6 @@ ghcr.io/hay-kot/homebox:latest
 ghcr.io/danvergara/morphos-server:latest
 jgraph/drawio:latest
 xiaoyaliu/alist:hostmode
-homeassistant/home-assistant:latest
 linuxserver/calibre-web:latest
 fireflyiii/core:latest
 frooodle/s-pdf:latest
