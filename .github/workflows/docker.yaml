@@ -43,7 +43,20 @@ jobs:
 
     - name: Restart docker
       run: sudo service docker restart
-
+    
+    - name: Clean Docker diskspace
+      run: |
+         echo "==== Before Docker cleanup ===="
+         df -h
+         docker system df
+         docker container prune -af
+         docker network prune -f
+         docker image prune -af
+         docker builder prune -af
+         echo "==== After Docker cleanup ===="
+         df -h
+         docker system df
+      
     - name: Free up disk space complete
       run: |
         echo "Free up disk space complete"
