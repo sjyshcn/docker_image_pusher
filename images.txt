@@ -41,3 +41,6 @@ ghcr.io/dendianugerah/reubah:latest
 aceberg/exercisediary:latest
 aceberg/homelists:latest
 linuxserver/jackett:latest
+palemoky/chinese-poetry-api:latest
+iptvlive/iptv-rust:latest
+akiralereal/iptv:latest
