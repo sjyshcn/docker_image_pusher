@@ -41,4 +41,3 @@ aceberg/homelists:latest
 linuxserver/jackett:latest
 palemoky/chinese-poetry-api:latest
 akiralereal/iptv:latest
-snapotter/snapotter:latest
