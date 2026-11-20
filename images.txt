@@ -3,6 +3,7 @@ imaegoo/twikoo:latest
 neilpang/acme.sh:latest
 neosmemo/memos:stable
 metacubex/mihomo:latest
+metacubex/metacubexd:latest
 qingfeng2336/it-tools:latest
 ghcr.io/hay-kot/homebox:latest
 ghcr.io/danvergara/morphos-server:latest
@@ -41,3 +42,4 @@ aceberg/homelists:latest
 linuxserver/jackett:latest
 palemoky/chinese-poetry-api:latest
 akiralereal/iptv:latest
+
