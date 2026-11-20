@@ -28,7 +28,6 @@ mysql:latest
 rustdesk/rustdesk-server:latest
 nriver/trilium-cn:latest
 triliumnext/trilium:latest
-ghcr.io/anduin2017/how-to-cook:latest
 linuxserver/grocy:latest
 wekanteam/wekan:v8.27
 nousresearch/hermes-agent:latest
