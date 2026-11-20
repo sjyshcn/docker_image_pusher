@@ -2,9 +2,8 @@ b3log/siyuan:latest
 imaegoo/twikoo:latest
 neilpang/acme.sh:latest
 neosmemo/memos:stable
-dreamacro/clash:latest
+metacubex/mihomo:latest
 qingfeng2336/it-tools:latest
-haishanh/yacd:latest
 ghcr.io/hay-kot/homebox:latest
 ghcr.io/danvergara/morphos-server:latest
 jgraph/drawio:latest
@@ -42,5 +41,5 @@ aceberg/exercisediary:latest
 aceberg/homelists:latest
 linuxserver/jackett:latest
 palemoky/chinese-poetry-api:latest
-iptvlive/iptv-rust:latest
 akiralereal/iptv:latest
+snapotter/snapotter:latest
